@@ -6,3 +6,5 @@ Now editig from branch A.
 Working on conflicts.
 
 Try again.
+
+One more step.
